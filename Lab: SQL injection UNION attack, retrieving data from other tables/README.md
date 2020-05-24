@@ -1,1 +1,3 @@
-# Hacking
+![](https://github.com/TsyganenkoE/Hacking/blob/master/Lab:%20SQL%20injection%20UNION%20attack%2C%20retrieving%20data%20from%20other%20tables/5.2%20SQL%20injection%20UNION%20attack%2C%20retrieving%20data%20from%20other%20tables.png)
+![](https://github.com/TsyganenkoE/Hacking/blob/master/Lab:%20SQL%20injection%20UNION%20attack%2C%20retrieving%20data%20from%20other%20tables/5.1%20SQL%20injection%20UNION%20attack%2C%20retrieving%20data%20from%20other%20tables.png)
+![](https://github.com/TsyganenkoE/Hacking/blob/master/Lab:%20SQL%20injection%20UNION%20attack%2C%20retrieving%20data%20from%20other%20tables/5.3%20SQL%20injection%20UNION%20attack%2C%20retrieving%20data%20from%20other%20tables.png)
